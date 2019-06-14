@@ -1,0 +1,11 @@
+/Users/kratos/Desktop/C#Fund1/bin/Debug/netcoreapp2.2/C#Fund1.deps.json
+/Users/kratos/Desktop/C#Fund1/bin/Debug/netcoreapp2.2/C#Fund1.runtimeconfig.json
+/Users/kratos/Desktop/C#Fund1/bin/Debug/netcoreapp2.2/C#Fund1.runtimeconfig.dev.json
+/Users/kratos/Desktop/C#Fund1/bin/Debug/netcoreapp2.2/C#Fund1.dll
+/Users/kratos/Desktop/C#Fund1/bin/Debug/netcoreapp2.2/C#Fund1.pdb
+/Users/kratos/Desktop/C#Fund1/obj/Debug/netcoreapp2.2/C#Fund1.csprojAssemblyReference.cache
+/Users/kratos/Desktop/C#Fund1/obj/Debug/netcoreapp2.2/C#Fund1.csproj.CoreCompileInputs.cache
+/Users/kratos/Desktop/C#Fund1/obj/Debug/netcoreapp2.2/C#Fund1.AssemblyInfoInputs.cache
+/Users/kratos/Desktop/C#Fund1/obj/Debug/netcoreapp2.2/C#Fund1.AssemblyInfo.cs
+/Users/kratos/Desktop/C#Fund1/obj/Debug/netcoreapp2.2/C#Fund1.dll
+/Users/kratos/Desktop/C#Fund1/obj/Debug/netcoreapp2.2/C#Fund1.pdb
